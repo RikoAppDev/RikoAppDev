@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RikoAppDev
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in Android app and Web development
+- 🌱 I’m currently learning Kotlin, Jetpack Compose and React
 
 <!---
 RikoAppDev/RikoAppDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
