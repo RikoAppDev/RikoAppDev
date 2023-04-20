@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RikoAppDev
+- 👨‍🎓 Studying at FIIT STU
 - 👀 I’m interested in Android app and Web development
 - 🌱 I’m currently learning Kotlin, Jetpack Compose and React
 
