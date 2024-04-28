@@ -205,7 +205,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rikoappdev/rikoappdev/output/snake.svg" alt="Snake animation" />
+<h2 align="left">🐍 Contributions</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rikoappdev/rikoappdev/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
