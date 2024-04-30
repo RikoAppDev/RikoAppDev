@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Studying at FIIT STU
 - 👀 I’m interested in Android app and Web development
-- 🌱 I’m currently exploring Kotlin multiplatfor
+- 🌱 I’m currently exploring Kotlin multiplatform
 
 ###
 
