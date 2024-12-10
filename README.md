@@ -6,9 +6,9 @@
 
 ###
 
-- 👨‍🎓 Studying at FIIT STU
-- 👀 I’m interested in Android app and Web development
-- 🌱 I’m currently exploring Kotlin multiplatform
+-   👨‍🎓 Studying at FIIT STU
+-   👀 I’m interested in Android app and Web development
+-   🌱 I’m currently exploring Kotlin multiplatform
 
 ###
 
@@ -69,6 +69,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adonisjs/5A45FF" height="40" alt="adonisjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpack compose logo" />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
@@ -120,6 +124,10 @@
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
 </div>
 
 ###
@@ -142,6 +150,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
@@ -205,13 +215,7 @@
 
 ###
 
-<h2 align="left">🐍 Contributions</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rikoappdev/rikoappdev/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/rikoappdev/rikoappdev/output/snake.svg" alt="Snake animation" />
 
 ###
 
