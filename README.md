@@ -199,7 +199,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rikoappdev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rikoappdev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rikoappdev&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=6&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=rikoappdev&theme=radical&hide_border=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikoappdev&radius=6&theme=redical&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
